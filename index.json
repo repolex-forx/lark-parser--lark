@@ -1,0 +1,11 @@
+{
+  "org": "lark-parser",
+  "repo": "lark",
+  "versions": [
+    {
+      "commit": "9a4fb9c7458e8155636773a3cded0016d52516da",
+      "tag": "",
+      "parsed_at": "2026-10-18T04:45:10.783286+00:00"
+    }
+  ]
+}
