@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/lark-parser/lark/commit/9a4fb9c7458e8155636773a3cded0016d52516da",
       "git:hexsha": "9a4fb9c7458e8155636773a3cded0016d52516da",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-10-18T04:45:10.782549+00:00"
     },
     {
       "@id": "https://repolex.ai/r/lark-parser/lark/commit/9f3d611022a451ca577c106c39b8b6770d457794",
